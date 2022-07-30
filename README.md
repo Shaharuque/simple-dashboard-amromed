@@ -1,10 +1,10 @@
 # Project Live Site Link
 
-[Simple Dashboard](https://demo-project-amromed.netlify.app/).
+[Simple Dashboard Live Preview](https://demo-project-amromed.netlify.app/)
 
 ## Tech/Packages Used
-> React.JS
-> React Table
-> Tailwind CSS
-> React-Router
+1. React.JS
+2. React Table
+3. Tailwind CSS
+4. React-Router
 
